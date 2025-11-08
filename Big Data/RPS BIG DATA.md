@@ -3,7 +3,7 @@
 
 # RENCANA PEMBELAJARAN SEMESTER
 
-**Mata Kuliah**: Praktikum Pengantar Big Data  
+**Materi**: Praktikum Pengantar Big Data  
 **Pembina**: Adam Setiadi, S.Kom  
 **Prasyarat**: Basis Data, Pemrograman Lanjut
 
