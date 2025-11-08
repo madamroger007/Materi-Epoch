@@ -118,16 +118,16 @@ Bandung, November 2025
 
 **Tim Penyusun:**
 
-| Nama Dosen | Jabatan | Tanda Tangan |
+| Nama Penyusun | Jabatan | Tanda Tangan |
 |------------|---------|--------------|
-| [Nama Dosen], [Gelar] | Dosen | |
+| [Adam Setiadi], [S.Kom] | Pemateri | |
 
 ---
 
 ## BERITA ACARA REVIEWER
 ### RENCANA PEMBELAJARAN SEMESTER (RPS)
 
-Pada hari ______ tanggal _____ telah dilakukan review Rencana Pembelajaran Semester (RPS) dan Deskripsi Tugas untuk mata kuliah Praktikum Pengantar Big Data.
+Pada hari Sabtu 08 November 2025 telah dilakukan review Rencana Pembelajaran Semester (RPS) dan Deskripsi Tugas untuk mata kuliah Praktikum Pengantar Big Data.
 
 **Hasil Review RPS dan Deskripsi Tugas Sebagai Berikut:**
 
