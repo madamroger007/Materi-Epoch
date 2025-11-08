@@ -5,12 +5,12 @@
 | | |
 |------------------|------------------------------------------------------|
 | **Topik** | Instalasi dan Konfigurasi Virtual Machine dengan Ubuntu Linux untuk Environment Big Data |
-| **Mata Kuliah** | Praktikum Pengantar Big Data |
+| **Materi** | Praktikum Pengantar Big Data |
 | **Estimasi Waktu** | 120 Menit |
 
 ---
 
-## A. Capaian Pembelajaran (Sub-CPMK)
+## A. Capaian Pembelajaran 
 
 Setelah menyelesaikan modul praktikum ini, mahasiswa diharapkan mampu:
 
