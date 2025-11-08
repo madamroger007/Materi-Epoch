@@ -1,21 +1,17 @@
-# UNIVERSITAS BALE BANDUNG
-## FAKULTAS TEKNOLOGI INFORMASI
-## PROGRAM STUDI TEKNIK INFORMATIKA
+# EPOCH DIGITAL
+
 
 # RENCANA PEMBELAJARAN SEMESTER
 
 **Mata Kuliah**: Praktikum Pengantar Big Data  
-**Dosen Pembina**: [Nama Dosen], [Gelar]  
-**Kode Mata Kuliah**: [Kode MK]  
-**Semester**: 5  
-**SKS**: 1  
+**Pembina**: Adam Setiadi, S.Kom  
 **Prasyarat**: Basis Data, Pemrograman Lanjut
 
 ---
 
 ## CAPAIAN PEMBELAJARAN
 
-Setelah mengikuti Mata Kuliah ini, mahasiswa diharapkan mampu:
+Setelah mengikuti Pembelajaran ini, mahasiswa diharapkan mampu:
 
 ### Sikap:
 Mampu menunjukkan sikap bertanggung jawab atas pekerjaan di bidang keahliannya secara mandiri dan dapat diberi tanggung jawab atas pencapaian hasil kerja tim dalam proyek analisis dan pemrosesan Big Data.
@@ -69,17 +65,6 @@ Mampu mengaplikasikan konsep, prinsip, dan teknik-teknik Big Data untuk merancan
 
 ---
 
-## SISTEM PENILAIAN
-
-| Komponen | Bobot |
-|----------|-------|
-| Praktikum Mingguan (Pertemuan 1-15) | 37.5% |
-| Proyek Akhir (Pertemuan 16) | 40% |
-| Kehadiran & Partisipasi | 10% |
-| Tugas & Quiz | 12.5% |
-| **TOTAL** | **100%** |
-
----
 
 ## SPESIFIKASI MINIMUM SISTEM
 
@@ -98,15 +83,8 @@ Mampu mengaplikasikan konsep, prinsip, dan teknik-teknik Big Data untuk merancan
 
 ---
 
-## BERITA ACARA TIM PENYUSUN
-### RENCANA PEMBELAJARAN SEMESTER (RPS)
 
-**Mata Kuliah**: Praktikum Pengantar Big Data  
-**Kode Mata Kuliah**: [Kode MK]  
-**Semester**: 5  
-**SKS**: 1
-
-Pada hari ______ tanggal _____ telah dilakukan penyusunan Rencana Pembelajaran Semester (RPS) dan Deskripsi Tugas untuk mata kuliah Praktikum Pengantar Big Data.
+Pada hari Sabtu 08 November 2025 telah dilakukan penyusunan Rencana Pembelajaran Semester (RPS) dan Deskripsi Tugas untuk mata kuliah Praktikum Pengantar Big Data.
 
 **Dasar Pertimbangan penyusunan RPS adalah:**
 1. Perubahan Kurikulum
@@ -122,25 +100,5 @@ Bandung, November 2025
 |------------|---------|--------------|
 | [Adam Setiadi], [S.Kom] | Pemateri | |
 
----
-
-## BERITA ACARA REVIEWER
-### RENCANA PEMBELAJARAN SEMESTER (RPS)
-
-Pada hari Sabtu 08 November 2025 telah dilakukan review Rencana Pembelajaran Semester (RPS) dan Deskripsi Tugas untuk mata kuliah Praktikum Pengantar Big Data.
-
-**Hasil Review RPS dan Deskripsi Tugas Sebagai Berikut:**
-
-Sudah sesuai dan memenuhi syarat SNPT dan Universitas.
-
-**Saran Perbaikan:** -
 
 Bandung, November 2025
-
-**Menyetujui**
-
-Ketua Program Studi  
-______________________
-
-Dekan  
-__________________________
